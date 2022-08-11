@@ -6,6 +6,6 @@
 'try to learn'
 
 [code](code)
-[stuff](code/stuff)
+[stuff](other/stuff)
 [google](https://google.com)
 ![DOG](https://www.rspca.org.au/adopt-pet)

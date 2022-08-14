@@ -1,9 +1,8 @@
 # MarkdownExercise
-# MarkdownExercise
 
-## Header 2
+## Case Study on Westpac and Digital Banking
 
-### Header 3
+### Overview of Westpac 
 
 --
 

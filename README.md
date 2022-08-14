@@ -10,11 +10,17 @@
 Today, Westpac serves almost 14 million customers in Australia and New Zealand through five core business platforms: Consumer Bank, Commercial and Business Bank, BT Financial Group, Westpac Institutional Bank, and Westpac New Zealand.
 Here are a few key statistics from 2021 that highlight Westpac’s dominance in the banking industry:
 •	Net profit of $5.4 billion
+
 •	Operating net income of $21.2 billion
+
 •	13.9 million customers served in Australia and New Zealand
+
 •	997 branches
+
 •	40,143 total employees
+
 •	Share price of $27.12 as of September 2021[6]
+
 In 2002, Westpac Banking Corporation acquired BT and Rothschild Australia Asset Management. In 2008, the bank announced its merger with St George Bank, Australia's fifth-largest bank, at A$19 billion.
 Today, Westpac serves almost 14 million customers in Australia and New Zealand through five core business platforms: Consumer Bank, Commercial and Business Bank, BT Financial Group, Westpac Institutional Bank, and Westpac New Zealand.
 

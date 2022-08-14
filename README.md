@@ -34,7 +34,8 @@ Consumer Bank: looking after 9 million consumer customers in Australia for norma
 Back in 2018 Westpac biggest competitor was other 3 banks such as Commonwealth Bank ,NAB. They have competitive strength on customer Service plus borrowing and market size. However as online shopping and contactless delivery improved dramatically during the pandemic, its rival also coming from other online payment solutions such as After Pay and Apple Pay and now regulator start discussing potential blockchain benefit to traditional banking industry [2]
 '
 
-> "T1 Overview of Westpac "
+### 2 Business Activities and Strategic Priorities
+
 [Code](code)
 
 [Stuff](code/stuff)

@@ -2,7 +2,7 @@
 
 ## Case Study on Westpac and Digital Banking
 
-![image](westpac.jpg)
+![image](https://commons.wikimedia.org/wiki/File:Westpac_Logo_Qtwn.JPG)
 
 ### 1 Overview of Westpac 
 

@@ -2,7 +2,7 @@
 
 ## Case Study on Westpac and Digital Banking
 
-### Overview of Westpac 
+### 1 Overview of Westpac 
 
 --
 

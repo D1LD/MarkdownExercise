@@ -36,13 +36,15 @@ Back in 2018 Westpac biggest competitor was other 3 banks such as Commonwealth B
 
 ### 2 Business Activities and Strategic Priorities
 
-#####Fix-IT complexity
+##### Fix-IT complexity
 
 Addressing our shortcomings by materially improving our management of risk and risk culture, reducing customer pain points, completing historical customer remediation program, and reducing the complexity of our technology
-#####Simplify-Transform using digital and data to enhance the customer experience
+
+##### Simplify-Transform using digital and data to enhance the customer experience
 
 Returning to our core businesses of banking in Australia and New Zealand, including exiting some businesses and international locations. Rationalising products and simplifying processes to make it easier for customers.
-#####Perform-Customer service-Market leading
+
+##### Perform-Customer service-Market leading
 
 Improving performance by building customer loyalty and growth through service, sharpening our focus on returns, and resetting our cost base. A strong balance sheet and engaged workforce form the foundations of performance.[8]
 
@@ -54,7 +56,7 @@ Luckily Westpac now is focusing on battle talent people, once they focus on digi
 The advantage is they already had capability to deal with large volume data and support transactions by using cloud -based banking system by practice.
 By 2030, almost 80% of heritage financial firms will be driven out of business by neo banks and digital banks, according to Gartner. A Financial Times and Mambu report pinpoints that 58% of the banks that fail to digitally transform will cease to exist in five to ten years[6]
 
-###3 Westpac Digitalisation weakness and strength with a solution 
+### 3 Westpac Digitalisation weakness and strength with a solution 
 
 Westpac provide new mobile banking in 2021 
 In fact Westpac start acquire start-up company in order to catch up with competitors but situation just quite different form Apple Pay, who has talent pool already, Westpac needs its own team, who is familiar with company product and be about to combine and develop separately.
@@ -66,7 +68,7 @@ Westpac had 3 issues happened before
 In the future, just like Nokia was busy fighting with Motorola and eventually lost market by Apple, Westpac need consider impact by digitalisation and invest accordingly to catch up within the industry, also be aware of rival from other industry.
 Solution for Westpac is reduce competition with other bank and start a bank alliance (such as Star Alliance) to share the security solution to protect customer, reduce cost on Cybercrime together. in addition, they also need implement more service for cryptocurrency such as Bitcoin, develop partnership with them, who has solution for security topic can help Westpac become a leader in banking industry by gaining first mover advantage. last by not the least is emphasise the importance on digitalisation and develop its own platform to provide better customer service.[4][5][7]
 
-###Resource
+### Resource
 
 [1]
 https://www.westpac.com.au/about-westpac/westpac-group/company-overview/our-history/

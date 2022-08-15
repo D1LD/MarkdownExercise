@@ -1,4 +1,4 @@
-# MarkdownExercise
+# Homework-1
 
 ## Case Study on Westpac and Digital Banking
 
@@ -36,13 +36,62 @@ Back in 2018 Westpac biggest competitor was other 3 banks such as Commonwealth B
 
 ### 2 Business Activities and Strategic Priorities
 
-[Code](code)
+#####Fix-IT complexity
 
-[Stuff](code/stuff)
+Addressing our shortcomings by materially improving our management of risk and risk culture, reducing customer pain points, completing historical customer remediation program, and reducing the complexity of our technology
+#####Simplify-Transform using digital and data to enhance the customer experience
 
-[Google](https://google.com)
+Returning to our core businesses of banking in Australia and New Zealand, including exiting some businesses and international locations. Rationalising products and simplifying processes to make it easier for customers.
+#####Perform-Customer service-Market leading
 
-![Westpac](https://www.google.com/search?q=westpac+online+banking+2021+news&rlz=1C1KDEC_en-GBAU925AU925&sxsrf=ALiCzsY_riMekd3TRfpYzCQuC_-z6dj5FA:1660473314881&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhrd6Qkcb5AhVi7HMBHUdaC_sQ_AUoA3oECAEQBQ&biw=1920&bih=929&dpr=1#imgrc=LtVRZ5KCo3dPRM:
-*)
- 0  
-code/.gitkeep
+Improving performance by building customer loyalty and growth through service, sharpening our focus on returns, and resetting our cost base. A strong balance sheet and engaged workforce form the foundations of performance.[8]
+
+Westpac has a long history on innovation, and was the first bank successfully implement ATM network, Westpac is a member of the Global ATM alliance which allows customer to use their ATM cards at other bank in the alliance. However, Westpac is bit slow on digitalisation progress, this is common in well-established organisation who has built up solid structure and culture and hard to change in a short time.[6]
+Currently, Westpac is continuing to reduce staff for reducing 8M cost by 2024,90 jobs will be cut, 65 will eliminated outright and 25 phased out through natural attrition, according to Fribence, this program is to create a more centralised brand and marketing model. 
+Those figures indicate that some job will be replaced by, restructure (more centralised) which would be quicker for leader to make decision than rivals. Now they focus on graduates’ program to battle for talent [3] focus on automation, modular technology to create platform. Till 2021 Westpac launched new MOBILE BANKING APP which can provide real time service by using cloud-based banking system.
+However, they bring a record for 12 hours network outage in 2021[7], hence 5-10 years goal to provide a simplify platform with better technology.
+Luckily Westpac now is focusing on battle talent people, once they focus on digitalisation and built up the team will be able to compete with competitors.
+The advantage is they already had capability to deal with large volume data and support transactions by using cloud -based banking system by practice.
+By 2030, almost 80% of heritage financial firms will be driven out of business by neo banks and digital banks, according to Gartner. A Financial Times and Mambu report pinpoints that 58% of the banks that fail to digitally transform will cease to exist in five to ten years[6]
+
+###3 Westpac Digitalisation weakness and strength with a solution 
+
+Westpac provide new mobile banking in 2021 
+In fact Westpac start acquire start-up company in order to catch up with competitors but situation just quite different form Apple Pay, who has talent pool already, Westpac needs its own team, who is familiar with company product and be about to combine and develop separately.
+Westpac had 3 issues happened before
+1 System reliability ---2021 the 12 hours network outage [7]-effect customer satisfaction and lost customer
+2 Culture transformation -delay on digitalisation 
+3 Cybercrimes-cost up to 6trillion USD globally in 2021 [9]
+
+In the future, just like Nokia was busy fighting with Motorola and eventually lost market by Apple, Westpac need consider impact by digitalisation and invest accordingly to catch up within the industry, also be aware of rival from other industry.
+Solution for Westpac is reduce competition with other bank and start a bank alliance (such as Star Alliance) to share the security solution to protect customer, reduce cost on Cybercrime together. in addition, they also need implement more service for cryptocurrency such as Bitcoin, develop partnership with them, who has solution for security topic can help Westpac become a leader in banking industry by gaining first mover advantage. last by not the least is emphasise the importance on digitalisation and develop its own platform to provide better customer service.[4][5][7]
+
+###Resource
+
+[1]
+https://www.westpac.com.au/about-westpac/westpac-group/company-overview/our-history/
+[2]
+https://en.wikipedia.org/wiki/Westpac
+[3]
+https://www.mpamag.com/au/news/general/westpac-slashes-more-jobs-as-margin-squeeze-continues/326617
+[4]
+https://www.westpac.com.au/news/topic.technology/
+[5]
+https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html
+[6]
+https://www.cascade.app/strategy-factory/studies/westpac-bank-strategy-study
+[7]
+https://7news.com.au/business/westpac/westpac-hit-by-major-outage-affecting-online-and-mobile-banking-c-3311972
+[8]
+https://www.westpac.com.au/about-westpac/westpac-group/company-overview/our-strategy-purpose/
+[9]
+https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/
+[10]
+https://www.commbank.com.au/guidance/newsroom/20-years-of-digital-banking-innovation-201706.html
+[11]
+https://www.westpac.com.au/about-westpac/media/media-releases/2021/
+[12]
+https://www.westpac.com.au/personal-banking/home-loans/calculator/
+[13]
+https://www.westpac.com.au/news/in-depth/2022/08/graduates-in-demand-as-battle-for-talent-hots-up/
+
